@@ -1,0 +1,8 @@
+fastapi==0.75.0
+hypercorn==0.13.2
+aiofiles==0.8.0
+python-multipart==0.0.5
+sqlmodel==0.0.6
+mysqlclient==2.1.0
+httpx==0.22.0
+httpx-auth==0.14.1
